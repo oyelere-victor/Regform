@@ -1,0 +1,89 @@
+.body{
+    background-color: darkblue;
+    text-align: center;
+}
+.h1{
+    color: white;
+}
+.p{
+    color: white;
+}
+.p1{
+    color: white;
+    text-align: left;
+    margin-left: 35%;
+    font-size: 15px;
+}
+.input{
+    background-color: black;
+    color: white;
+    width: 30%;
+    border: 0cm;
+    height: 30px;
+    border-radius: 4%;
+}
+fieldset{
+border: 0px;
+}
+a{
+    color: cyan;
+}
+.input1{
+    background-color: black;
+    color: white;
+    width: 30%; 
+    border: 0;
+    height: 30px;
+}
+.victor{
+width: 31%;
+background-color:black ;
+color: white;
+height: 30px;
+border-color: 0;
+}
+.input2{
+width: 30.8%;
+background-color:black ;
+color: white;
+height: 25px;
+border-color: 0;
+}
+.h2{
+    color: white;
+    padding-bottom: 6px;
+    text-align: left;
+    margin-left: 34.4%;
+}
+.h3{
+    color: white;
+    padding-bottom: 6px;
+    text-align: left;
+    margin-left: 34.8%;
+}
+.h4{ 
+  text-align: left;
+  color: white;
+  margin-left: 19.4%;
+}
+.h5{
+    color: white;
+    padding-bottom: 6px;
+    text-align: left;
+    margin-left: 34.4%;
+}
+.button{
+    width: 220px;
+    height: 25px;
+    background-color: gray;
+    color: white;
+    border-color:white ;
+    border: solid 1px;
+}
+.button:hover{
+    background-color: black;
+}
+.h6{
+    color: white;
+    margin-right: 20%;
+  } 
